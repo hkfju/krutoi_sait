@@ -1,0 +1,62 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: lawngreen;color: magenta;
+    
+}
+header a{
+    text-decoration: none;color:magenta ;
+    margin:10px
+}
+header img{
+    width:125px;
+    height:125px;
+}
+h1{
+    color:forestgreen  ;
+}
+footer{
+    border:10px solid darkorange;
+    color: deepskyblue;
+}
+footer p{
+    border:5px solid orange; 
+    margin: 10px;
+}
+nav{
+    background-color: gold;
+}
+nav a{
+    color: navy;
+    text-decoration: none;
+    border: 5px solid deepskyblue;
+    border-radius: 15px;
+    margin: 10px;
+    padding: 2px;
+}
+.text{
+    background-color: lightgoldenrodyellow;color: limegreen;
+    border: 10px solid aquamarine;
+    border-radius: 15px;
+    
+}
+a{
+    text-decoration: none;
+    color:goldenrod;
+    border: 5px solid turquoise;
+    padding:2px;
+    border-radius: 15px;
+}
+h2{
+ background-color: blueviolet; color: aqua;
+ border-radius: 15px;
+ border: 5px solid fuchsia;
+ padding: 2px;
+}
+img{
+    border: 5px solid aqua;
+    border-radius: 15px;
+    padding: 2px;
+    margin: 5px;
+}
